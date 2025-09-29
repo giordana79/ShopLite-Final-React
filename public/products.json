@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p-101",
+    "title": "Cuffie Wireless Pro",
+    "description": "Cancellazione attiva del rumore, 30h autonomia.",
+    "price": 129.9,
+    "category": "audio",
+    "rating": 4.5,
+    "stock": 23,
+    "images": ["/img/p101-1.jpg", "/img/p101-2.jpg"],
+    "discount": 0.15,
+    "bestseller": true
+  },
+  {
+    "id": "p-102",
+    "title": "Smartwatch Fit",
+    "description": "Cardiofrequenzimetro, GPS, resistenza all’acqua.",
+    "price": 99.0,
+    "category": "wearable",
+    "rating": 4.2,
+    "stock": 10,
+    "images": ["/img/p102-1.jpg"],
+    "discount": 0,
+    "bestseller": false
+  }
+]
