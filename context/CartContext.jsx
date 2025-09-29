@@ -127,7 +127,7 @@ export function CartProvider({ children }) {
         : prod;
     });
 
-    setProducts(updatedProducts); //Requisito che checkout() aggiorni
+    setProducts(updatedProducts); //Requisito che checkout() si aggiorna
     // sempre correttamente products con il nuovo stock,
     // altrimenti l’useEffect non scatta, perchè senza questo,
     // React non vede il cambiamento e la useEffect([products]) non si esegue.
